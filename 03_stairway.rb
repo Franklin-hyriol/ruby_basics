@@ -146,7 +146,6 @@ end
 def victoire
 	system "clear"
 	puts "VICTORY :)"
-	escalier (10)
 	print "Entrer pour quitter"
 	gets.chomp
 	system "clear"
